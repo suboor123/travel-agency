@@ -1,0 +1,44 @@
+:root {
+	/* Colors */
+	--primary-color: #ff5522;
+	--secondary-color: #ffb400;
+	--tertiary-color: #4a6660;
+	--light-purple-color: #a3adcc;
+	--blue-color: #2275ff;
+	--red-color: #fe455f;
+	--yellow-color: #faba2f;
+	--green-color: #51d77a;
+	--very-dark-gray-color: #252525;
+	--dark-gray-color: #2d3434;
+	--medium-gray-color: #6c7171;
+	--light-gray-gray: #a8b1b5;
+	--anti-flash-white-color: #f2f4f7;
+
+	/* Social Icons Colors */
+	--facebook-color: #1877f2;
+	--twitter-color: #3aacf3;
+	--linkedin-color: #3291c2;
+	--youtube-color: #ff0000;
+	--instagram-color: #e1306c;
+
+
+	/* Background Colors */
+
+	/* Gardients */
+
+	/* Font Family */
+	--heading-font-family-main: 'Gilroy_Bold', sans-serif;
+	--body-font-family: 'Open Sans', sans-serif;
+
+	/* Font Sizes */
+	--font-size-xxx-large: 96px;
+	--font-size-xx-large: 72px;
+	--font-size-x-large: 48px;
+	--font-size-large: 30px;
+	--font-size-medium: 24px;
+	--font-size-small: 20px;
+	--font-size-x-small: 18px;
+	--font-size-xx-small: 12px;
+	--font-size-xxx-small: 10px;
+	
+}

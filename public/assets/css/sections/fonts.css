@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Reey_Regular';
+    src: url('../../fonts/Reey/Reey-Regular.eot');
+    src: url('../../fonts/Reey/Reey-Regular-.eot#iefix') format('embedded-opentype'),
+         url('../../fonts/Reey/Reey-Regular.woff') format('woff'),
+         url('../../fonts/Reey/Reey-Regular.ttf') format('truetype'),
+         url('../../fonts/Reey/Reey-Regular.svg#Reey_Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy_Bold';
+    src: url('../../fonts/Gilroy/Gilroy-Bold.eot');
+    src: url('../../fonts/Gilroy/Gilroy-Bold-.eot#iefix') format('embedded-opentype'),
+         url('../../fonts/Gilroy/Gilroy-Bold.woff') format('woff'),
+         url('../../fonts/Gilroy/Gilroy-Bold.ttf') format('truetype'),
+         url('../../fonts/Gilroy/Gilroy-Bold.svg#Gilroy_Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy_Bold_Italic';
+    src: url('https://jufailitech.com/envatoitems/travilo/html/assets/css/fonts/Gilroy-BoldItalic.eot');
+    src: url('https://jufailitech.com/envatoitems/travilo/html/assets/css/fonts/Gilroy-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('https://jufailitech.com/envatoitems/travilo/html/assets/css/fonts/Gilroy-BoldItalic.woff') format('woff'),
+         url('https://jufailitech.com/envatoitems/travilo/html/assets/css/fonts/Gilroy-BoldItalic.ttf') format('truetype'),
+         url('https://jufailitech.com/envatoitems/travilo/html/assets/css/fonts/Gilroy-BoldItalic.svg#Gilroy_Bold_Italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
