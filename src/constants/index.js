@@ -1,5 +1,5 @@
 export const HOST = 'https://www.suboorkhan.com';
-export const APP_TITLE = 'Suboor Khan';
+export const APP_TITLE = 'Educorp Travel';
 
 export const DEFAULT_BG_STYLE = {
     background: 'black',
